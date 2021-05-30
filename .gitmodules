@@ -1,0 +1,3 @@
+[submodule "Sub-module"]
+	path = Sub-module
+	url = https://github.com/MeTuz4/Sub-module.git
